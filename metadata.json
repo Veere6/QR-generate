@@ -1,0 +1,6 @@
+{
+  "name": "QR & Barcode Scanner",
+  "description": "Professional QR Scanner, Barcode Scanner, and QR Generator with history, favorites, and customization.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
